@@ -26,8 +26,8 @@ This library is ideal for:
 const piiKeys = ['email', 'phone', 'address'];
 
 const userData = {
-  name: 'Mujeeb Khan',
-  email: 'mujeeb@enfintechnologies.com',
+  name: 'Mujeeb Rahman',
+  email: 'mujeeb@rahman.com',
   phone: '1234567890',
   address: '123 Tech Street, City, Country',
   dateOfBirth: '1990-01-01'
